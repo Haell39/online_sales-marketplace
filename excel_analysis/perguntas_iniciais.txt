@@ -1,13 +1,8 @@
 1. Houve algum desconto nas compras?
-    Não houve nehum desconto nas 241 compras
 
 2. Qual tipo de pagamento devemos ter mais atenção?
-    O cartão de crédito é o mais relevante, representa 50% das compras e mais de 63% da receita
 
 3. Existe diferença entre metódo de pagamento em diferentes regiões?
-    Sim! cartão de crédito possui 1/3 das operações na Áia e 2/3 na América do Norte
-    O cartão de débito tem 100% das operações na Ásia
-    O Paypal tem 100% das suas operações na Europa
 
 4. Existe algum produto que se diferencie em relação ao metódo de pagamento dos demais?
-    
+
