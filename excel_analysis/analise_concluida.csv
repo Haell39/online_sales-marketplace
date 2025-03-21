@@ -1,0 +1,13 @@
+Contagem de Transaction ID;Rótulos de Coluna;;;;;Contagem de Transaction ID;Rótulos de Coluna;;;
+Rótulos de Linha;Asia;Europe;North America;Total Geral;;Rótulos de Linha;Asia;Europe;North America;Total Geral
+Credit Card;33,33%;0,00%;66,67%;100,00%;;Credit Card;50,00%;0,00%;100,00%;50,00%
+Debit Card;100,00%;0,00%;0,00%;100,00%;;Debit Card;50,00%;0,00%;0,00%;16,67%
+PayPal;0,00%;100,00%;0,00%;100,00%;;PayPal;0,00%;100,00%;0,00%;33,33%
+Total Geral;33,33%;33,33%;33,33%;100,00%;;Total Geral;100,00%;100,00%;100,00%;100,00%
+;;;;;;;;;;
+Contagem de Transaction ID;Rótulos de Coluna;;;;;;;;;
+Rótulos de Linha;Asia;Europe;North America;Total Geral;;;;;;
+Credit Card;40;;80;120;;;;;;
+Debit Card;40;;;40;;;;;;
+PayPal;;80;;80;;;;;;
+Total Geral;80;80;80;240;;;;;;
